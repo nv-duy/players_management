@@ -7,20 +7,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Newtonsoft.Json;
 
-namespace clubsForm
+namespace player
 {
-    public partial class Formteam : Form
+    public partial class Formsub : Form
     {
-        public Formteam()
+        public Formsub()
         {
             InitializeComponent();
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

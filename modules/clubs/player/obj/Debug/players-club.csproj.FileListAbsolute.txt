@@ -1,0 +1,10 @@
+F:\C#\BTLon\modules\clubs\player\bin\Debug\player.exe.config
+F:\C#\BTLon\modules\clubs\player\bin\Debug\player.exe
+F:\C#\BTLon\modules\clubs\player\bin\Debug\player.pdb
+F:\C#\BTLon\modules\clubs\player\obj\Debug\players-club.csproj.AssemblyReference.cache
+F:\C#\BTLon\modules\clubs\player\obj\Debug\player.Formsub.resources
+F:\C#\BTLon\modules\clubs\player\obj\Debug\player.Properties.Resources.resources
+F:\C#\BTLon\modules\clubs\player\obj\Debug\players-club.csproj.GenerateResource.cache
+F:\C#\BTLon\modules\clubs\player\obj\Debug\players-club.csproj.CoreCompileInputs.cache
+F:\C#\BTLon\modules\clubs\player\obj\Debug\player.exe
+F:\C#\BTLon\modules\clubs\player\obj\Debug\player.pdb
