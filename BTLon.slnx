@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="modules/clubs/clubsForm/clubsForm.csproj" Id="a3af7396-289c-4054-a176-65bf4366a8a4" />
+  <Project Path="modules/clubs/player/players-club.csproj" Id="0cdd548a-a8b8-4419-9d3a-1d51dd7b0b6e" />
+  <Project Path="modules/coachs/coachsForm/coachsForm.csproj" Id="8dc93840-6a14-4c75-a9f9-2831062a65e8" />
+  <Project Path="modules/contracts/contractsForm/contractsForm.csproj" Id="98eb2a69-d223-4f93-91c3-5ea0ce5d19f9" />
+  <Project Path="modules/players/playersForm/playersForm.csproj" Id="82772fb6-2cbc-46f0-89f3-76630f04a535" />
+</Solution>
